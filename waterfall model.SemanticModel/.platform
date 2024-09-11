@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "waterfall model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d212ac91-44f0-4167-8d75-9539101c6071"
+  }
+}
